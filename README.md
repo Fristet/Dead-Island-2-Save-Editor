@@ -25,7 +25,7 @@
 ### 🚀 How to Install & Use
 1.  Download the latest release.
 2.  **Important:** Ensure `di2save.exe` and the `data/` folder are in the same directory as this GUI.
-3.  Run `DI2SaveEditor.exe`.
+3.  Run `di2save_gui.exe`.
 4.  **Configuration:**
     * **Executable Path:** Select the `di2save.exe` file.
     * **Save File Path:** Select your `.sav` file (usually located in `%LOCALAPPDATA%\DeadIsland2\Saved\SaveGames`).
@@ -57,7 +57,7 @@
 ### 🚀 설치 및 사용법
 1.  최신 버전을 다운로드하세요.
 2.  **중요:** 이 프로그램은 `di2save.exe`와 `data/` 폴더가 같은 위치에 있어야 작동합니다.
-3.  `DI2SaveEditor.exe`를 실행하세요.
+3.  `di2save_gui.exe`를 실행하세요.
 4.  **설정:**
     * **실행 파일 경로:** `di2save.exe` 파일을 선택합니다.
     * **세이브 파일 경로:** 수정할 `.sav` 파일을 선택합니다 (보통 `%LOCALAPPDATA%\DeadIsland2\Saved\SaveGames` 경로에 있습니다).
@@ -89,7 +89,7 @@
 ### 🚀 Installation et Utilisation
 1.  Téléchargez la dernière version (release).
 2.  **Important :** Assurez-vous que `di2save.exe` et le dossier `data/` se trouvent dans le même répertoire que cette interface (GUI).
-3.  Lancez `DI2SaveEditor.exe`.
+3.  Lancez `di2save_gui.exe`.
 4.  **Configuration :**
     * **Chemin de l'exécutable :** Sélectionnez le fichier `di2save.exe`.
     * **Chemin de la sauvegarde :** Sélectionnez votre fichier `.sav` (généralement situé dans `%LOCALAPPDATA%\DeadIsland2\Saved\SaveGames`).
@@ -121,7 +121,7 @@
 ### 🚀 Instalación y Uso
 1.  Descarga la última versión.
 2.  **Importante:** Asegúrate de que `di2save.exe` y la carpeta `data/` estén en el mismo directorio.
-3.  Ejecuta `DI2SaveEditor.exe`.
+3.  Ejecuta `di2save_gui.exe`.
 4.  Selecciona la ruta de `di2save.exe` y tu archivo de guardado (`.sav`).
 5.  Usa el menú lateral para aplicar los cambios.
 
@@ -146,7 +146,7 @@
 ### 🚀 Установка и использование
 1.  Скачайте последнюю версию.
 2.  **Важно:** Убедитесь, что `di2save.exe` и папка `data/` находятся в одной директории.
-3.  Запустите `DI2SaveEditor.exe`.
+3.  Запустите `di2save_gui.exe`.
 4.  Выберите путь к `di2save.exe` и вашему файлу сохранения (`.sav`).
 5.  Используйте меню для внесения изменений.
 
@@ -171,7 +171,7 @@
 ### 🚀 安装与使用
 1.  下载最新版本。
 2.  **重要:** 请确保 `di2save.exe` 和 `data/` 文件夹与本程序在同一目录下。
-3.  运行 `DI2SaveEditor.exe`。
+3.  运行 `di2save_gui.exe`。
 4.  选择 `di2save.exe` 路径和您的存档文件 (`.sav`)。
 5.  在左侧菜单选择相应功能进行修改。
 
