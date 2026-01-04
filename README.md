@@ -1,2 +1,168 @@
-# Dead-Island-2-Save-Editor
-Dead Island 2 Save Editor
+# Dead Island 2 Save Editor GUI
+
+**A user-friendly GUI wrapper for the Dead Island 2 Save Editor.** This tool allows you to easily modify your save files, manage inventory, and customize weapon upgrades without using the command line.
+
+---
+
+### 🌍 Languages
+[English](#english) | [한국어 (Korean)](#한국어-korean) | [Français (French)](#français-french) | [Español (Spanish)](#español-spanish) | [Русский (Russian)](#русский-russian) | [简体中文 (Chinese)](#简体中文-chinese)
+
+---
+
+## English
+
+### ✨ Features
+* **Quick Cheats:** Instantly apply Max Level & Max XP to your character.
+* **Inventory Management:**
+    * Add unlimited Money (Cash).
+    * Add Items (Weapons, Consumables, Crafting Materials, Blueprints/Cards).
+    * Delete unwanted items easily.
+* **Weapon Modification:**
+    * Visual Upgrade Editor: View and edit weapon upgrade slots.
+    * Add or Remove mods and perks directly.
+* **Safety:** Supports automatic version safety checks (can be toggled).
+
+### 🚀 How to Install & Use
+1.  Download the latest release.
+2.  **Important:** Ensure `di2save.exe` and the `data/` folder are in the same directory as this GUI.
+3.  Run `DI2SaveEditor.exe`.
+4.  **Configuration:**
+    * **Executable Path:** Select the `di2save.exe` file.
+    * **Save File Path:** Select your `.sav` file (usually located in `%LOCALAPPDATA%\DeadIsland2\Saved\SaveGames`).
+5.  Choose a menu from the sidebar (Quick / Inventory / Upgrade) and apply your changes.
+
+### ⚠️ Disclaimer
+* Always **backup your save files** before using this tool.
+* Use at your own risk. The author is not responsible for corrupted save files.
+
+---
+
+## 한국어 (Korean)
+
+### ✨ 주요 기능
+* **빠른 치트:** 클릭 한 번으로 만렙(Max Level) 및 최대 경험치 적용.
+* **인벤토리 관리:**
+    * 돈(Cash) 무제한 추가.
+    * 아이템 추가 (무기, 소모품, 재료, 설계도/카드).
+    * 불필요한 아이템 삭제 기능.
+* **무기 개조 (업그레이드):**
+    * 무기 슬롯 시각화: 장착된 업그레이드를 눈으로 확인하고 편집.
+    * 특전(Perk) 및 개조 부품(Mod) 자유로운 장착/해제.
+* **안전성:** 버전 안전 검사 기능 지원 (옵션에서 토글 가능).
+
+### 🚀 설치 및 사용법
+1.  최신 버전을 다운로드하세요.
+2.  **중요:** 이 프로그램은 `di2save.exe`와 `data/` 폴더가 같은 위치에 있어야 작동합니다.
+3.  `DI2SaveEditor.exe`를 실행하세요.
+4.  **설정:**
+    * **실행 파일 경로:** `di2save.exe` 파일을 선택합니다.
+    * **세이브 파일 경로:** 수정할 `.sav` 파일을 선택합니다 (보통 `%LOCALAPPDATA%\DeadIsland2\Saved\SaveGames` 경로에 있습니다).
+5.  왼쪽 메뉴에서 원하는 기능(빠른 설정 / 인벤토리 / 업그레이드)을 선택하여 적용하세요.
+
+### ⚠️ 주의 사항
+* 이 도구를 사용하기 전에 반드시 **세이브 파일을 백업**하세요.
+* 세이브 파일 손상에 대한 책임은 사용자에게 있습니다.
+
+---
+
+## Español (Spanish)
+
+### ✨ Características
+* **Trucos Rápidos:** Aplica Nivel Máximo y XP Máxima al instante.
+* **Gestión de Inventario:**
+    * Añadir dinero ilimitado.
+    * Añadir objetos (Armas, Consumibles, Materiales, Planos).
+    * Eliminar objetos no deseados.
+* **Modificación de Armas:**
+    * Editor Visual: Ver y editar ranuras de mejora de armas.
+    * Añadir o quitar mods y ventajas (perks) directamente.
+* **Seguridad:** Comprobación automática de seguridad de versión.
+
+### 🚀 Instalación y Uso
+1.  Descarga la última versión.
+2.  **Importante:** Asegúrate de que `di2save.exe` y la carpeta `data/` estén en el mismo directorio.
+3.  Ejecuta `DI2SaveEditor.exe`.
+4.  Selecciona la ruta de `di2save.exe` y tu archivo de guardado (`.sav`).
+5.  Usa el menú lateral para aplicar los cambios.
+
+---
+
+## Français (French)
+
+### ✨ Fonctionnalités
+* **Astuces Rapides (Quick Cheats) :** Appliquez instantanément le Niveau Max et l'XP Max à votre personnage.
+* **Gestion de l'Inventaire :**
+    * Ajouter de l'Argent (Cash) illimité.
+    * Ajouter des Objets (Armes, Consommables, Matériaux, Plans/Cartes).
+    * Supprimer facilement les objets indésirables.
+* **Modification d'Armes :**
+    * Éditeur Visuel : Visualisez et modifiez les emplacements d'amélioration des armes.
+    * Ajoutez ou retirez directement des mods et des avantages (perks).
+* **Sécurité :** Supporte la vérification automatique de version (peut être activé/désactivé).
+
+### 🚀 Installation et Utilisation
+1.  Téléchargez la dernière version (release).
+2.  **Important :** Assurez-vous que `di2save.exe` et le dossier `data/` se trouvent dans le même répertoire que cette interface (GUI).
+3.  Lancez `DI2SaveEditor.exe`.
+4.  **Configuration :**
+    * **Chemin de l'exécutable :** Sélectionnez le fichier `di2save.exe`.
+    * **Chemin de la sauvegarde :** Sélectionnez votre fichier `.sav` (généralement situé dans `%LOCALAPPDATA%\DeadIsland2\Saved\SaveGames`).
+5.  Choisissez un menu dans la barre latérale (Rapide / Inventaire / Amélioration) et appliquez vos changements.
+
+### ⚠️ Avertissement
+* **Sauvegardez toujours vos fichiers de sauvegarde** (backup) avant d'utiliser cet outil.
+* Utilisation à vos propres risques. L'auteur n'est pas responsable des fichiers de sauvegarde corrompus.
+
+### 🏆 Crédits
+* **Outil Principal :** Cette interface est basée sur le **[Dead Island 2 Save Editor (CLI)](https://steffenl.com/projects/dead-island-2-save-editor)** créé par **SteffenL**.
+* Veuillez visiter la page du projet original pour les mises à jour concernant la logique centrale.
+
+--
+
+## Русский (Russian)
+
+### ✨ Особенности
+* **Быстрые читы:** Мгновенное получение максимального уровня и опыта.
+* **Управление инвентарем:**
+    * Добавление неограниченного количества денег.
+    * Добавление предметов (Оружие, Расходники, Материалы, Чертежи).
+    * Удаление предметов.
+* **Модификация оружия:**
+    * Визуальный редактор: Просмотр и изменение слотов улучшения оружия.
+    * Добавление и удаление модов и перков.
+* **Безопасность:** Поддержка проверки версии сохранения.
+
+### 🚀 Установка и использование
+1.  Скачайте последнюю версию.
+2.  **Важно:** Убедитесь, что `di2save.exe` и папка `data/` находятся в одной директории.
+3.  Запустите `DI2SaveEditor.exe`.
+4.  Выберите путь к `di2save.exe` и вашему файлу сохранения (`.sav`).
+5.  Используйте меню для внесения изменений.
+
+---
+
+## 简体中文 (Chinese)
+
+### ✨ 主要功能
+* **快速作弊:** 一键修改为满级 (Max Level) 和最大经验值 (Max XP)。
+* **库存管理:**
+    * 添加无限金钱。
+    * 添加物品 (武器, 消耗品, 材料, 蓝图/卡片)。
+    * 删除不需要的物品。
+* **武器改装:**
+    * 可视化编辑器: 查看和编辑武器升级槽。
+    * 直接添加或移除模组 (Mods) 和专长 (Perks)。
+* **安全性:** 支持版本安全检查功能。
+
+### 🚀 安装与使用
+1.  下载最新版本。
+2.  **重要:** 请确保 `di2save.exe` 和 `data/` 文件夹与本程序在同一目录下。
+3.  运行 `DI2SaveEditor.exe`。
+4.  选择 `di2save.exe` 路径和您的存档文件 (`.sav`)。
+5.  在左侧菜单选择相应功能进行修改。
+
+---
+
+### Credits
+* GUI created by [Frsitet]
+* Based on the `di2save` CLI tool.
