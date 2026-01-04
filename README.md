@@ -35,6 +35,10 @@
 * Always **backup your save files** before using this tool.
 * Use at your own risk. The author is not responsible for corrupted save files.
 
+### 🏆 Credits & Original Project
+* **Core Tool:** This GUI is based on the **[Dead Island 2 Save Editor (CLI)](https://steffenl.com/projects/dead-island-2-save-editor)** by **SteffenL**.
+* Please visit the original project page for updates regarding the core logic.
+
 ---
 
 ## 한국어 (Korean)
@@ -63,27 +67,9 @@
 * 이 도구를 사용하기 전에 반드시 **세이브 파일을 백업**하세요.
 * 세이브 파일 손상에 대한 책임은 사용자에게 있습니다.
 
----
-
-## Español (Spanish)
-
-### ✨ Características
-* **Trucos Rápidos:** Aplica Nivel Máximo y XP Máxima al instante.
-* **Gestión de Inventario:**
-    * Añadir dinero ilimitado.
-    * Añadir objetos (Armas, Consumibles, Materiales, Planos).
-    * Eliminar objetos no deseados.
-* **Modificación de Armas:**
-    * Editor Visual: Ver y editar ranuras de mejora de armas.
-    * Añadir o quitar mods y ventajas (perks) directamente.
-* **Seguridad:** Comprobación automática de seguridad de versión.
-
-### 🚀 Instalación y Uso
-1.  Descarga la última versión.
-2.  **Importante:** Asegúrate de que `di2save.exe` y la carpeta `data/` estén en el mismo directorio.
-3.  Ejecuta `DI2SaveEditor.exe`.
-4.  Selecciona la ruta de `di2save.exe` y tu archivo de guardado (`.sav`).
-5.  Usa el menú lateral para aplicar los cambios.
+### 🏆 크레딧 (원본 프로젝트)
+* **핵심 도구:** 이 프로그램은 **SteffenL** 님의 **[Dead Island 2 Save Editor (CLI)](https://steffenl.com/projects/dead-island-2-save-editor)** 를 기반으로 제작되었습니다.
+* 핵심 로직에 대한 업데이트는 원본 프로젝트 페이지를 참고해 주세요.
 
 ---
 
@@ -117,7 +103,32 @@
 * **Outil Principal :** Cette interface est basée sur le **[Dead Island 2 Save Editor (CLI)](https://steffenl.com/projects/dead-island-2-save-editor)** créé par **SteffenL**.
 * Veuillez visiter la page du projet original pour les mises à jour concernant la logique centrale.
 
---
+---
+
+## Español (Spanish)
+
+### ✨ Características
+* **Trucos Rápidos:** Aplica Nivel Máximo y XP Máxima al instante.
+* **Gestión de Inventario:**
+    * Añadir dinero ilimitado.
+    * Añadir objetos (Armas, Consumibles, Materiales, Planos).
+    * Eliminar objetos no deseados.
+* **Modificación de Armas:**
+    * Editor Visual: Ver y editar ranuras de mejora de armas.
+    * Añadir o quitar mods y ventajas (perks) directamente.
+* **Seguridad:** Comprobación automática de seguridad de versión.
+
+### 🚀 Instalación y Uso
+1.  Descarga la última versión.
+2.  **Importante:** Asegúrate de que `di2save.exe` y la carpeta `data/` estén en el mismo directorio.
+3.  Ejecuta `DI2SaveEditor.exe`.
+4.  Selecciona la ruta de `di2save.exe` y tu archivo de guardado (`.sav`).
+5.  Usa el menú lateral para aplicar los cambios.
+
+### 🏆 Créditos
+* **Herramienta Principal:** Esta GUI está basada en **[Dead Island 2 Save Editor (CLI)](https://steffenl.com/projects/dead-island-2-save-editor)** creado por **SteffenL**.
+
+---
 
 ## Русский (Russian)
 
@@ -138,6 +149,9 @@
 3.  Запустите `DI2SaveEditor.exe`.
 4.  Выберите путь к `di2save.exe` и вашему файлу сохранения (`.sav`).
 5.  Используйте меню для внесения изменений.
+
+### 🏆 Кредиты
+* **Основной инструмент:** Этот GUI основан на **[Dead Island 2 Save Editor (CLI)](https://steffenl.com/projects/dead-island-2-save-editor)** от **SteffenL**.
 
 ---
 
@@ -161,8 +175,5 @@
 4.  选择 `di2save.exe` 路径和您的存档文件 (`.sav`)。
 5.  在左侧菜单选择相应功能进行修改。
 
----
-
-### Credits
-* GUI created by [Frsitet]
-* Based on the `di2save` CLI tool.
+### 🏆 致谢
+* **核心工具:** 本程序基于 **SteffenL** 开发的 **[Dead Island 2 Save Editor (CLI)](https://steffenl.com/projects/dead-island-2-save-editor)**。
